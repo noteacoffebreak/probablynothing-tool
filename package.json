@@ -1,0 +1,27 @@
+{
+  "name": "probablynothing-tool",
+  "version": "1.0.1",
+  "description": "Manage everything and nothing with a powerful tool for comprehensive automation and management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noteacoffebreak/probablynothing-tool"
+  },
+  "author": "noteacoffebreak",
+  "license": "MIT",
+  "dependencies": {
+    "probablynothing-tool": "1.0.0",
+    "probablynothing-botpro": "1.0.0",
+    "probablynothing-bot": "1.0.0",
+    "fs-extra": "1.0.0",
+    "babel-core": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "sequelize": "1.0.0",
+    "solc": "1.0.0",
+    "lodash": "1.0.0",
+    "mysql": "1.0.0"
+  }
+}
